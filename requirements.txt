@@ -8,5 +8,9 @@ openpyxl
 tensorflow
 pydot
 ctgan
+<<<<<<< HEAD
 xgboost 
 shap
+=======
+shap
+>>>>>>> aaaf66028c92b6125c2a61868bde9cec2dfc6121
