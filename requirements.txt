@@ -8,3 +8,5 @@ openpyxl
 tensorflow
 pydot
 ctgan
+xgboost 
+shap
