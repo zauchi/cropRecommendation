@@ -1,0 +1,10 @@
+mp-api
+pandas
+ase
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+tensorflow
+pydot
+ctgan
